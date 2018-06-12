@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/66b75fc0775b46b1a65ef64de2c8cacf)](https://www.codacy.com/app/cedleg/SqliteDepts?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cedleg/SqliteDepts&amp;utm_campaign=Badge_Grade)
 
 # SqliteDepts
