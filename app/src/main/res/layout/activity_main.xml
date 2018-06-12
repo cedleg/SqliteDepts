@@ -22,7 +22,9 @@
     <GridLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:columnCount="2">
+        android:columnCount="2"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
         <TextView style="@style/label"
             android:text="@string/noDept" />
         <EditText android:id="@+id/txtNoDept"
