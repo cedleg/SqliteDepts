@@ -6,7 +6,7 @@ App to look French Departments. You can add, edit and delete a department
 
 ## Live sample
 
-![Screenshot Android](https://raw.githubusercontent.com/cedleg/SqliteDepts/master/resources/Screenshot_1528792456.png)
+![Screenshot Android](https://raw.githubusercontent.com/cedleg/SqliteDepts/master/resources/screenshot_20180612-120608.png)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
