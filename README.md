@@ -36,7 +36,7 @@ test src/
 
 ## Authors
 
-* **Cédric L** - *Initial work* - [SqliteDepts](https://github.com/PurpleBooth)
+* **Cédric L** - *Initial work* - [SqliteDepts](https://github.com/cedleg)
 
 ## License
 
